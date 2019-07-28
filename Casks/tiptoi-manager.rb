@@ -1,6 +1,6 @@
 cask 'tiptoi-manager' do
-  version '4.0.1'
-  sha256 'b739710756d8369720feabf5be29c1b5959eab7b26e60175044472e21ce70059'
+  version '4.1.2'
+  sha256 '6f3d1a109cffb49c2942243a2ec1101561970fbeb57166f45b00972ce7e72c65'
 
   url 'https://tiptoidata.s3-de.object.vdc.interoute.com/installer_flat/tiptoi_Manager_Installer.pkg'
   name 'tiptoi® Manager'
